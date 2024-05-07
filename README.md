@@ -3,9 +3,11 @@
 ## AIM:
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 
+
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
+
 
 ## Algorithm:
 
@@ -18,6 +20,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 4.Determine training and test data set.
 
 5.Apply decision tree regression on to the dataframe and get the values of Mean square error, r2 and data prediction.
+
+
 
 ## Program:
 
@@ -58,6 +62,7 @@ dt.predict([[5,6]])
 ```
 
 
+
 ## Output:
 
 ![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/3f0d0d5b-4a41-459c-a7ba-3f3ee303daa9)
@@ -73,4 +78,5 @@ dt.predict([[5,6]])
 ![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/05a1526d-6bdc-4a4d-851f-2eac574cfc1c)
 
 ## Result:
+
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
