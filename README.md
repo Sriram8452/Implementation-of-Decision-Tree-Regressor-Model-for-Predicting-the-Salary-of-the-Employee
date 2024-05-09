@@ -62,17 +62,17 @@ dt.predict([[5,6]])
 
 ## Output:
 
-![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/3f0d0d5b-4a41-459c-a7ba-3f3ee303daa9)
+![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/12da37ac-b07c-474e-8e4f-3d714d3da200)
 
-![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/534e5306-5730-4712-a13f-13ef96edb40c)
+![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/45f60aae-85bb-4eea-911f-e9695a18bf56)
 
-![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/449fb041-f4ca-4663-b4e5-c771d0322a17)
+![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/38c7e50a-dffe-4df0-b37f-188e57176bc8)
 
-![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/7cc2e087-b37b-42ec-a406-0124662058f7)
+![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/33454022-4b21-404e-9904-4c94e1c387aa)
 
-![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/c88bae2b-24ab-41f7-aa83-66da84f83ee4)
+![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/9ac732d4-0710-4fa6-958d-9a4f681a7982)
 
-![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/05a1526d-6bdc-4a4d-851f-2eac574cfc1c)
+![image](https://github.com/Sriram8452/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118708032/bc4486c3-05c0-4f5b-bf1a-fa3c1459a994)
 
 ## Result:
 
